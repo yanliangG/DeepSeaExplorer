@@ -1,7 +1,7 @@
 # DeepSeaExplorer
 A swimming simulation game featuring dual input modes: traditional keyboard controls and real-time gesture-based interaction using two webcams.
 
-## Acknowledgements:
+## Acknowledgements
 
 This project is built upon the excellent work from the following repositories:
 
